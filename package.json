@@ -4,7 +4,7 @@
   "description": "Vim emulation for Visual Studio Code with fix for easymotion on Code Server",
   "icon": "images/icon.png",
   "version": "1.24.3-1",
-  "publisher": "vscodevim/LW",
+  "publisher": "vscodevim, LW",
   "galleryBanner": {
     "color": "#e3f4ff",
     "theme": "light"
